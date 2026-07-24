@@ -1,16 +1,25 @@
-# VMware Installation
+# VMware Workstation
 
 ## Objective
 
-Install VMware Workstation Pro and understand the basics of virtualization.
+Install VMware Workstation Pro and understand virtualization.
 
-## What I Learned
+## Concepts Learned
 
-- What a host is
-- What a guest is
-- What a hypervisor is
-- Why companies use virtual machines
+- HostOS
+- Guest
+- Hypervisor
+- ISO
+- Virtual Hard Disk
 
-## Status
+## Screenshots
 
-✅ Complete
+...
+
+## Challenges
+
+Navigating BROADCOM to download VMware Workstation Pro.
+
+## Lessons Learned
+
+VMware provides the hypervisor that creates and manages the virtual environment. ISO files are digital versions of OS disk installers that the host boots up to copy its OS onto the VM's virtual hard disk.
