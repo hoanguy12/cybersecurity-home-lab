@@ -6,7 +6,7 @@ Install VMware Workstation Pro and understand virtualization.
 
 ## Concepts Learned
 
-- HostOS
+- Host
 - Guest
 - Hypervisor
 - ISO
@@ -22,4 +22,4 @@ Navigating BROADCOM to download VMware Workstation Pro.
 
 ## Lessons Learned
 
-VMware provides the hypervisor that creates and manages the virtual environment. ISO files are digital versions of OS disk installers that the host boots up to copy its OS onto the VM's virtual hard disk.
+VMware provides the hypervisor that creates and manages the virtual environment. ISO files are digital versions of OS disk installers that the VM boots up to copy the OS onto it's virtual hard disk.
