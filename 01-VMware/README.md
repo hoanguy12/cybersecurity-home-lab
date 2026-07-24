@@ -18,8 +18,10 @@ Install VMware Workstation Pro and understand virtualization.
 
 ## Challenges
 
-Navigating BROADCOM to download VMware Workstation Pro.
+Navigating the Broadcom website to download VMware Workstation Pro.
 
 ## Lessons Learned
 
-VMware provides the hypervisor that creates and manages the virtual environment. ISO files are digital versions of OS disk installers that the VM boots up to copy the OS onto it's virtual hard disk.
+VMware Workstation Pro is a hypervisor that creates and manages virtual machines. It allocates hardware resources from the physical host, such as CPU, RAM, storage, and networking, to each guest VM.
+
+ISO files are digital copies of operating system installation media. The virtual machine boots from the ISO, and the installer copies the operating system onto its virtual hard disk. After installation, the VM can boot from the virtual hard disk without needing the ISO.
