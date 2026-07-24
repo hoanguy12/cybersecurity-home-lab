@@ -14,7 +14,7 @@ Install VMware Workstation Pro and understand virtualization.
 
 ## Screenshots
 
-![VMware Workstation downloaded and running.](screenshots/vmware-workstation-ubuntu-vm.png)
+![VMware Workstation downloaded and running.](vmware-workstation-downloaded.png)
 
 ## Challenges
 
