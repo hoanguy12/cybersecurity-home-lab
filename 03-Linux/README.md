@@ -8,7 +8,7 @@ Learn how to locate files and directories using relative and absolute paths.
 
 - Relative paths
 - Absolute paths
-- Current directory '.'
+- Current directory `.`
 - Parent directory '..'
 - Root directory '/'
 - Home directory '~'
