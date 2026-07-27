@@ -2,20 +2,18 @@
 
 ## Objective
 
-Explain why you installed Ubuntu Desktop and what you intended to learn from it.
+Install Ubuntu OS to practice Linux
 
 ## Installation Environment
 
-- Hypervisor:
-- Guest operating system:
-- Installation media:
-- Virtual memory:
-- Virtual processors:
-- Virtual disk size:
+- Hypervisor: VMware Workstation Pro
+- Guest operating system: Physical laptop
+- Installation media: Ubuntu.iso
+- Virtual memory: 4 GB
+- Virtual processors: ?
+- Virtual disk size: 40 GB
 
 ## Installation Choices
-
-Explain the choices you made during installation:
 
 - Interactive installation
 - Default application selection
@@ -28,15 +26,9 @@ Explain the choices you made during installation:
 
 ![Ubuntu Desktop after installation](screenshots/ubuntu-first-desktop.png)
 
-## Challenges
-
-Describe anything that confused you or made you pause during installation.
-
 ## Lessons Learned
 
-Explain:
-
-- What the Ubuntu ISO was used for
-- Where Ubuntu was installed
+- Ubuntu ISO is used as the installation media to copy the OS from the ISO file onto the VM
 - Why erasing the disk did not erase your physical laptop
-- Why the ISO was no longer required after installation
+- Physical laptop's disk is not affected by erasing disk and installing Ubuntu
+- ISO has done it's job and is no longer needed
