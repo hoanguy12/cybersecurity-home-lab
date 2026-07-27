@@ -2,25 +2,26 @@
 
 ## Objective
 
-Install Ubuntu OS to practice Linux
+Install Ubuntu in a virtual machine to begin learning Linux administration and command-line fundamentals.
 
 ## Installation Environment
 
+- Host computer: Windows laptop
 - Hypervisor: VMware Workstation Pro
-- Guest operating system: Physical laptop
-- Installation media: Ubuntu.iso
-- Virtual memory: 4 GB
-- Virtual processors: ?
+- Guest operating system: Ubuntu Desktop
+- Installation media: Ubuntu Desktop ISO file
+- Virtual memory: 4 GB RAM
+- Virtual processors: 2
 - Virtual disk size: 40 GB
 
 ## Installation Choices
 
-- Interactive installation
-- Default application selection
-- Third-party software
-- Erase disk and install Ubuntu
-- No disk encryption
-- Active Directory left disabled
+- Selected interactive installation
+- Selected the default application package
+- Installed recommended third-party software
+- Selected **Erase disk and install Ubuntu**
+- Left disk encryption disabled
+- Left Active Directory integration disabled
 
 ## Screenshots
 
@@ -28,7 +29,10 @@ Install Ubuntu OS to practice Linux
 
 ## Lessons Learned
 
-- Ubuntu ISO is used as the installation media to copy the OS from the ISO file onto the VM
-- Why erasing the disk did not erase your physical laptop
-- Physical laptop's disk is not affected by erasing disk and installing Ubuntu
-- ISO has done it's job and is no longer needed
+- The Ubuntu ISO served as bootable installation media for the virtual machine.
+- The VM booted from the ISO and launched the Ubuntu installer.
+- The installer copied Ubuntu onto the VM's virtual hard disk.
+- The virtual hard disk is stored as a file on the physical host computer.
+- Erasing the virtual disk did not erase or modify the physical laptop's disk.
+- After installation, Ubuntu booted from the virtual hard disk instead of the ISO.
+- The ISO was no longer required after the installation was completed.
