@@ -18,18 +18,6 @@ I am building a professional home lab using VMware Workstation Pro. Every major 
 - Investigate security alerts
 - Document everything professionally
 
-## Current Progress
-
-### ✅ Phase 1
-- [x] Installed VMware Workstation Pro
-- [ ] Installed Ubuntu Desktop
-- [ ] Linux Fundamentals
-- [ ] Windows Administration
-- [ ] Networking
-- [ ] Wazuh SIEM
-- [ ] Threat Detection
-- [ ] Incident Response
-
 ## Why I Built This
 
 I wanted to understand cybersecurity by building and documenting a realistic home lab to have a more hands on experience. This repository serves as both my learning journal and professional portfolio.
